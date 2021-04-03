@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="style.css" rel="stylesheet" />
+
+<title>TOP MOVIES FOR 2021</title>
+</head>
+  <body>
+
+</head>
+
+  
+  <body>
+
+<h1>TOP MOVIES FOR 2021</h1>
+
+<table>
+  <tr>
+    <th width=20%>TOP#</th>
+  <th>MOVIE NAME</th>
+  <th> POSTER</th>
+ </tr>
+<tr>
+    <td>1</td>
+    <td>
+<h2> Don't mess with the zohan</h2>
+<p> The film  Don't mess with the zohan revolves around Zohan Dvir (Hebrew: זוהן דביר‎), an Israeli army counterterrorist commando who fakes his own death in order to pursue his dream of becoming a hairstylist in New York City. It was released on June 6, 2008, in the US and on August 15, 2008, in the UK. </p>
+<a
+   href="https://en.m.wikipedia.org/wiki/You_Don%27t_Mess_with_the_Zohan" target="_blank" > Read more </a>
+
+</td>
+    
+  <td>
+ <img
+      Src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/With_the_zohan.jpg/220px-With_the_zohan.jpg"  </a>
+    </td>
+  </tr>
+ 
+  <tr>
+    <td>2</td>
+    <td> 
+      <h2>The Dictator</h2>
+      <p> The Dictator is a 2012 political satire comedy film co-written by and starring Sacha Baron Cohen as his fourth feature film in a leading role. The film is directed by Larry Charles, who previously directed Baron Cohen's mockumentaries Borat and Brüno. Baron Cohen, in the role of Admiral General Aladeen, the dictator of the fictional Republic of Wadiya visiting the United States, stars alongside Anna Faris, Ben Kingsley, Jason Mantzoukas, and an uncredited appearance by John C. Reilly.</p>
+<a
+    href="https://en.m.wikipedia.org/wiki/The_Dictator_(2012_film)" target="_blank" >Read more</a>
+       </td>
+       <td>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/The_Dictator_Poster.jpg/220px-The_Dictatoralt=ster.jpg"</a>
+      </td>
+  </tr>
+  
+  <tr>
+<td>3</td>
+    <td>
+      <h2>Dead Pool</h2>
+   <p> Deadpool is a 2016 American superhero film based on the Marvel Comics character of the same name. Distributed by 20th Century Fox, it is the eighth film in the X-Men film series. Directed by Tim Miller from a screenplay by Rhett Reese and Paul Wernick, it stars Ryan Reynolds in the title role alongside Morena Baccarin, Ed Skrein, T. J. Miller, Gina Carano, and Brianna Hildebrand. In the film, Wade Wilson hunts the man who gave him mutant abilities and a scarred physical appearance, becoming the beloved antihero Deadpool.</p>
+      <a
+ href="https://en.m.wikipedia.org/wiki/Deadpool_(film)" target="_blank" > Read more </a>
+      
+    </td>
+    <td>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Deadpool_%282016_poster%29.png/220px-Deadpool_%282016_poster%29.png" </a>
+     </td>
+  </tr>
+  
+  <tr>
+    <td>4</td>
+    <td>
+      <h2>The Conjuring</h2>
+    <p>The Conjuring, centering on the alleged real-life exploits of Ed and Lorraine Warren, a married couple who investigated paranormal events. In his second collaboration with Wan, Patrick Wilson starred alongside Vera Farmiga in the main roles of Ed and Lorraine. Production commenced in Wilmington, North Carolina, in February 2012, and scenes were shot in chronological order.
+
+The Conjuring was released in the United States and Canada on July 19, 2013, by Warner Bros. Pictures and New Line Cinema. It received positive reviews from critics, who praised the performances, direction, screenplay, atmosphere, and musical score. It grossed over $319 million worldwide against its $20 million budget. A sequel, The Conjuring 2, was released on June 10, 2016. </p>
+      <a
+         href="https://en.m.wikipedia.org/wiki/The_Conjuring" target="_blank" >Read more </a>
+    </td>
+    <td> 
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Conjuring_poster.jpg/220px-Conjuring_poster.jpg"</a>
+     
+  </td>
+  </tr>
+  
+  <tr>
+<td>5</td>
+    <td>
+      <h2>Hacksaw Ridge</h2
+   <p> Hacksaw Ridge is a 2016 biographical war film directed by Mel Gibson and written by Andrew Knight and Robert Schenkkan, based on the 2004 documentary The Conscientious Objector. The film focuses on the World War II experiences of Desmond Doss, an American pacifist combat medic who, as a Seventh-day Adventist Christian, refused to carry or use a weapon or firearm of any kind. Doss became the first conscientious objector to be awarded the Medal of Honor, for service above and beyond the call of duty during the Battle of Okinawa. Andrew Garfield stars as Doss, with Sam Worthington, Luke Bracey, Teresa Palmer, Hugo Weaving, Rachel Griffiths, and Vince Vaughn in supporting roles. </p>
+      <a
+         href="https://en.m.wikipedia.org/wiki/Hacksaw_Ridge" target=_blank" > Read more </a>
+      </td>
+      <td>
+   <img 
+src=" https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Hacksaw_Ridge_poster.png/220px-Hacksaw_Ridge_poster.png" alt="Hacksaw Ridge" </a>
+                                                   </td>
+  </tr>
+    </table>
+  </body>
+  </html>       
+
+
