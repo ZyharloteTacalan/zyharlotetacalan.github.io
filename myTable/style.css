@@ -1,6 +1,6 @@
 body{
   font-family:Arial, Helvetica, sans-serif;
-  text-transform:none;
+  text-transform:uppercase ;
 }
 
 table,th,td{
@@ -17,11 +17,11 @@ img{
   width:200px;
 }
 
-p, a {text-trasform:none}
+p, a {text-trasform:lowercase}
 
 p{
   font-size:20px; }
 
 a{
   font-size:14px; }
-     text-transform:uppercase;
+   
