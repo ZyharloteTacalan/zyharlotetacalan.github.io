@@ -1,6 +1,6 @@
 body{
   font-family:Arial, Helvetica, sans-serif;
-  text-transform:uppercase;
+  text-transform:none;
 }
 
 table,th,td{
@@ -24,3 +24,4 @@ p{
 
 a{
   font-size:14px; }
+     text-transform:uppercase;
