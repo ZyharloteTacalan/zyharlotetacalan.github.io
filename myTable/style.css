@@ -17,11 +17,11 @@ img{
   width:200px;
 }
 
-p, a {text-trasform:uppercase }
+p, a {text-trasform:none}
 
 p{
   font-size:20px; }
 
 a{
   font-size:14px; }
-   text-transform:lowercase;
+   text-transform:none;
