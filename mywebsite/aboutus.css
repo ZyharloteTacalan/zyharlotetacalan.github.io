@@ -1,0 +1,48 @@
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font: normal 18px/1.5 "Cooper Black", serif;
+  background: #F7A8B8;
+  color: #fff;
+  overflow-x: hidden;
+  padding-bottom: 50px;
+}  /* INTRO SECTION
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.intro {
+  background: #F5A9B8;
+  padding: 100px 0;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+}
+/* FOOTER SECTION
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+footer {
+  font: normal 40px "Cooper Black", serif;
+    background-color: #F7A8B8;
+    text-align: middle;
+} 
+aside {
+    background-color: ;
+    text-align: middle;
+}
+/* TIMELINE
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.timeline ul {
+  background: #7AC;
+  padding: 50px 0;
+}
